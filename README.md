@@ -2,7 +2,7 @@
 
 An interactive dashboard summarizing notable stories in Canadian finance and business.
 
-Built from the [weekly newsletter by Jared Sandler](https://assetequation.substack.com), which covers Canadian finance in a digestible format — covering fintech, the big banks, pensions, capital markets, sponsorships, and more.
+Built from the [weekly newsletter by Jared Sandler](https://assetequation.substack.com), which covers Canadian finance in a digestible format - covering fintech, the big banks, pensions, capital markets, sponsorships, and more.
 
 ## What's inside
 
@@ -22,8 +22,8 @@ Built from the [weekly newsletter by Jared Sandler](https://assetequation.substa
 
 ## How to use
 
-View it live at the GitHub Pages link above, or download `dashboard-april.html` and open it in any browser — no installation required.
+View it live at the GitHub Pages link [here](https://jaredsandler.github.io/canadian-finance-recap/), or download `index.html` and open it in any browser - no installation required.
 
 ## About the newsletter
 
-A weekly newsletter covering what's happening in Canadian money — written for anyone who works in finance, is curious about it, or just wants to stay informed. [Subscribe here](https://assetequation.substack.com/welcome).
+A weekly newsletter covering what's happening in Canadian money - written for anyone who works in finance, is curious about it, or just wants to stay informed. [Subscribe here](https://assetequation.substack.com/welcome).
